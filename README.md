@@ -8,7 +8,7 @@
 </div>
 
 
-<h1 align="center">🏁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 🏁</h1>
+<h1 align="center">🏁 About Me🏁</h1>
 
 
 - 🎓 𝗙𝗶𝗻𝗮𝗹-𝘆𝗲𝗮𝗿 𝘂𝗻𝗱𝗲𝗿𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 at **𝗕𝗮𝗻𝗮𝘀𝘁𝗵𝗮𝗹𝗶 𝗩𝗶𝗱𝘆𝗮𝗽𝗶𝘁𝗵**  
@@ -17,28 +17,6 @@
 - 🏆 **𝗜𝗘𝗘𝗘 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗕𝗿𝗮𝗻𝗰𝗵 𝗖𝗵𝗮𝗶𝗿** & 𝗡𝗦𝗦 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿 𝗟𝗲𝗮𝗱𝗲𝗿  
 - 💡 𝗔𝗹𝘄𝗮𝘆𝘀 𝗰𝘂𝗿𝗶𝗼𝘂𝘀 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘁𝗼 **𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗗𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻𝘀, 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗙𝟭-𝗶𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀 🏎️✨**  
 
-
----
-  <h1 align="center" style="text-decoration:none; margin-bottom:20px;">
-🚥 𝗣𝗶𝘁 𝗦𝘁𝗼𝗽𝘀 – 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲 🚥
-</h1>
-
-<p align="center">
-  <a href="mailto:singh.adwika11@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adwika-singh/">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=3DV94NoAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/📚-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Adwika-Singh">
-    <img src="https://img.shields.io/badge/🔍-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-  </a>
-</p>
-
----
 <div align="center">
 
 <h1>🏎️ 📖 Track Records – My Publications 📖 🏎️</h1>
@@ -129,7 +107,30 @@
 > Because they’re always looking for the best “curve” fit! 🏁😄
 
 ---
+  <h1 align="center" style="text-decoration:none; margin-bottom:20px;">
+🚥 𝗣𝗶𝘁 𝗦𝘁𝗼𝗽𝘀 – 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲 🚥
+</h1>
 
+<p align="center">
+  <a href="mailto:singh.adwika11@gmail.com">
+    <img src="https://img.shields.io/badge/✉️-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adwika-singh/">
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=3DV94NoAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/📚-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Adwika-Singh">
+    <img src="https://img.shields.io/badge/🔍-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+</p>
 
-🏁 **Thanks for stopping by my pit lane!**  
+---
+<p align="center">
+🏁 Thanks for stopping by my pit lane!
 💖 Keep racing, keep learning, and may your models always converge at top speed! 
+
+  <img src="https://github.com/singhadwika/singhadwika/raw/main/F1 GIF.gif" alt="F1 GIF" width="400"/>
+</p>
+
