@@ -56,7 +56,7 @@
 
 ---
 <h1 align="center" style="text-decoration:none; margin-bottom:20px;">
-🛠️ Technical Garage – My Racing Arsenal
+🛠️ Technical Garage – My Racing Arsenal 🛠️
 </h1>
 <div align="center">
 
@@ -100,7 +100,7 @@
 ---
 
 <h1 align="center" style="text-decoration:none; margin-bottom:20px;">
-🤖 F1 Humor
+🤖 F1 Humor 🤖
 </h1>
 
 > Why do data scientists make great F1 drivers?  
@@ -128,8 +128,7 @@
 
 ---
 <p align="center">
-🏁 Thanks for stopping by my pit lane!
-
   <img src="https://github.com/singhadwika/singhadwika/raw/main/F1 GIF.gif" alt="F1 GIF" width="400"/>
+  🏁 Thanks for stopping by my pit lane!
 </p>
 
