@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🏁💕 Adwika Singh 💕🏁
+---
 
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400" alt="Animated F1 Car">
-
+  <img src="name.png" alt="ADWIKA SINGH" width="500" />
 </div>
 
 ---
