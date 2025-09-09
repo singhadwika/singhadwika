@@ -129,7 +129,6 @@
 ---
 <p align="center">
 🏁 Thanks for stopping by my pit lane!
-💖 Keep racing, keep learning, and may your models always converge at top speed! 
 
   <img src="https://github.com/singhadwika/singhadwika/raw/main/F1 GIF.gif" alt="F1 GIF" width="400"/>
 </p>
