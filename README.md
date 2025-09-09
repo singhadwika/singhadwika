@@ -128,7 +128,10 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/singhadwika/singhadwika/raw/main/F1 GIF.gif" alt="F1 GIF" width="400"/>
-  🏁 Thanks for stopping by my pit lane!
+  <b>🏁 Thanks for stopping by my pit lane!</b>
+  <br><br>
+  <img src="https://github.com/singhadwika/singhadwika/raw/main/F1%20GIF.gif" alt="F1 GIF" width="400"/>
 </p>
+
+
 
