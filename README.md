@@ -3,45 +3,72 @@
 ---
 
   <img src="name.png" alt="ADWIKA SINGH" width="500" />
+
+---
 </div>
 
----
 
-## 🏎️ About Me – Pole Position in AI & F1 Enthusiasm 💖
+<h1 align="center">🏁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 🏁</h1>
 
-🎀 **AI Researcher** specializing in Machine Unlearning & Ethical AI  
-🎓 **B.Tech (CS-AI)**, Banasthali Vidyapith (CGPA 8.29/10)  
-🏆 **IEEE Student Branch Chair** & NSS Volunteer Leader  
-💻 **HPC Experience**: NVIDIA DGX A100, Docker, CUDA  
-💖 **F1 Fanatic**: Dreaming of Monaco GP victory laps  
+- 🎓 𝗙𝗶𝗻𝗮𝗹-𝘆𝗲𝗮𝗿 𝘂𝗻𝗱𝗲𝗿𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 at **𝗕𝗮𝗻𝗮𝘀𝘁𝗵𝗮𝗹𝗶 𝗩𝗶𝗱𝘆𝗮𝗽𝗶𝘁𝗵**  
+- 📚 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 **𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 (𝗔𝗜 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻)**  
+- 🔬 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 🖼️ | 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖**  
+- 🏆 **𝗜𝗘𝗘𝗘 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗕𝗿𝗮𝗻𝗰𝗵 𝗖𝗵𝗮𝗶𝗿** & 𝗡𝗦𝗦 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿 𝗟𝗲𝗮𝗱𝗲𝗿  
+- 💡 𝗔𝗹𝘄𝗮𝘆𝘀 𝗰𝘂𝗿𝗶𝗼𝘂𝘀 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘁𝗼 **𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗗𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻𝘀, 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗙𝟭-𝗶𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀 🏎️✨**  
 
-> “AI without experiments is like an F1 car that never leaves the pit lane.”
 
 ---
+<h1 align="center">🚥 𝗣𝗶𝘁 𝗦𝘁𝗼𝗽𝘀 – 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲 🚥</h1>
 
-## 🚥 Pit-Stops – Connect with Me
+<p align="center">
+  <a href="mailto:singh.adwika11@gmail.com">
+    <img src="https://img.shields.io/badge/✉️-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adwika-singh/">
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=3DV94NoAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/📚-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Adwika-Singh">
+    <img src="https://img.shields.io/badge/🔍-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+</p>
 
+---
 <div align="center">
 
-[![Email](https://img.shields.io/badge/✉️-Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.adwika11@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adwika-singh/)  
-[![Scholar](https://img.shields.io/badge/📚-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3DV94NoAAAAJ&hl=en)  
-[![ResearchGate](https://img.shields.io/badge/🔍-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Adwika-Singh)
+<h1>🏎️ 📖 𝗣𝗼𝗹𝗲 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻 – 𝗠𝘆 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 📖 🏎️</h1>
+
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+
+  <!-- Springer Paper -->
+  <div align="center">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-88881-6_21">
+      <img src="https://media.springernature.com/w306/springer-static/cover/book/9783031888816.jpg" width="150" alt="Deepfake Phylogenetics Paper"/>
+    </a>
+    <br><br>
+    <b>Unveiling Deepfake Origins</b><br>
+    <i>Springer, LNCS (2024)</i><br><br>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-88881-6_21">
+      <img src="https://img.shields.io/badge/View_Paper-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    </a>
+  </div>
+
+  <!-- ResearchGate Paper -->
+  <div align="center">
+    <a href="https://www.researchgate.net/publication/392510341_Campus_Placement_Prediction_using_Ensemble_Learning_Approach">
+      <img src="https://i.ibb.co/7CQVJNm/sample-thumbnail.jpg" width="150" alt="Campus Placement Prediction Paper"/>
+    </a>
+    <br><br>
+    <b>Campus Placement Prediction</b><br>
+    <i>ResearchGate (2024)</i><br><br>
+    <a href="https://www.researchgate.net/publication/392510341_Campus_Placement_Prediction_using_Ensemble_Learning_Approach">
+      <img src="https://img.shields.io/badge/View_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    </a>
+  </div>
 
 </div>
-
----
-
-## 🏆 Research Podium – Publications
-
-<div align="center">
-
-[![Springer](https://img.shields.io/badge/Springer-978-3-031-88881-6_21-EF5423?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-031-88881-6_21)  
-**Forgetting with Finesse** (AAAI-26)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate–392510341-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/392510341_Campus_Placement_Prediction_using_Ensemble_Learning_Approach)  
-**Campus Placement Prediction** (StatSci ’24)
-
 </div>
 
 ---
