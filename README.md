@@ -10,6 +10,7 @@
 
 <h1 align="center">🏁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 🏁</h1>
 
+
 - 🎓 𝗙𝗶𝗻𝗮𝗹-𝘆𝗲𝗮𝗿 𝘂𝗻𝗱𝗲𝗿𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 at **𝗕𝗮𝗻𝗮𝘀𝘁𝗵𝗮𝗹𝗶 𝗩𝗶𝗱𝘆𝗮𝗽𝗶𝘁𝗵**  
 - 📚 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 **𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 (𝗔𝗜 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻)**  
 - 🔬 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 🖼️ | 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖**  
@@ -18,7 +19,9 @@
 
 
 ---
-<h1 align="center">🚥 𝗣𝗶𝘁 𝗦𝘁𝗼𝗽𝘀 – 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲 🚥</h1>
+  <h1 align="center" style="text-decoration:none; margin-bottom:20px;">
+🚥 𝗣𝗶𝘁 𝗦𝘁𝗼𝗽𝘀 – 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲 🚥
+</h1>
 
 <p align="center">
   <a href="mailto:singh.adwika11@gmail.com">
@@ -38,7 +41,7 @@
 ---
 <div align="center">
 
-<h1>🏎️ 📖 𝗣𝗼𝗹𝗲 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻 – 𝗠𝘆 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 📖 🏎️</h1>
+<h1>🏎️ 📖 Track Records – My Publications 📖 🏎️</h1>
 
 <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
@@ -49,20 +52,22 @@
     </a>
     <br><br>
     <b>Unveiling Deepfake Origins</b><br>
-    <i>Springer, LNCS (2024)</i><br><br>
+    <i>Springer, LNCS</i><br><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-88881-6_21">
       <img src="https://img.shields.io/badge/View_Paper-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
     </a>
   </div>
 
+<br>
+
   <!-- ResearchGate Paper -->
   <div align="center">
     <a href="https://www.researchgate.net/publication/392510341_Campus_Placement_Prediction_using_Ensemble_Learning_Approach">
-      <img src="https://i.ibb.co/7CQVJNm/sample-thumbnail.jpg" width="150" alt="Campus Placement Prediction Paper"/>
+      <img src="https://github.com/singhadwika/singhadwika/raw/main/Thumbnail.png" width="150" alt="Campus Placement Prediction Paper"/>
     </a>
     <br><br>
     <b>Campus Placement Prediction</b><br>
-    <i>ResearchGate (2024)</i><br><br>
+    <i>ResearchGate</i><br><br>
     <a href="https://www.researchgate.net/publication/392510341_Campus_Placement_Prediction_using_Ensemble_Learning_Approach">
       <img src="https://img.shields.io/badge/View_Paper-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
     </a>
@@ -72,11 +77,12 @@
 </div>
 
 ---
-
-## 🛠️ Technical Skills – Pit Crew Line-up
-
+<h1 align="center" style="text-decoration:none; margin-bottom:20px;">
+🛠️ Technical Garage – My Racing Arsenal
+</h1>
 <div align="center">
 
+### 🔧 Programming Languages  
 <!-- Languages -->
 [![Python](https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
 [![Java](https://img.shields.io/badge/Java-E8B4B8?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/) 
@@ -84,6 +90,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-FFB6C1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 
+## 🐙 Tools
 <!-- Tools -->
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/) 
 [![Jupyter](https://img.shields.io/badge/Jupyter-FFB6C1?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/) 
@@ -95,6 +102,8 @@
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
 
+
+## 🔥 Frameworks & Libraries
 <!-- Frameworks & Libraries -->
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) 
@@ -112,12 +121,15 @@
 
 ---
 
-## 🤖 Pit-Stop Laughs & Fun Facts
+<h1 align="center" style="text-decoration:none; margin-bottom:20px;">
+🤖 F1 Humor
+</h1>
 
-> **F1 Humor:** Why do data scientists make great F1 drivers?  
+> Why do data scientists make great F1 drivers?  
 > Because they’re always looking for the best “curve” fit! 🏁😄
-
-**Fun Fact:** I named my primary Docker image “Ferrari-Engine” and my Jupyter themes “Monaco-Dark”!  
 
 ---
 
+
+🏁 **Thanks for stopping by my pit lane!**  
+💖 Keep racing, keep learning, and may your models always converge at top speed! 
